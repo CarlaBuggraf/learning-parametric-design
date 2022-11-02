@@ -5,6 +5,8 @@ This is the companion repository for the ["Learning Parametric Design"](https://
 ## Welcome to parametric design 👋
 This seminar is an introduction creating design artifacts with code. In contrast to other creative coding classes, we take a specific focus on how to use code to create digital artifacts that we can use in other software or even rapid prototyping tools like laser cutters/engravers, CNC milling machines, 3D-printers or even stitching machines.
 
+Hallo!
+
 You need no prior knowledge of any of those tools and systems. You just need to bring a little curiosity.
 
 ## Structure of the repo
