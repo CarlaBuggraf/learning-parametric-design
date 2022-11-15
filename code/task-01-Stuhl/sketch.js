@@ -70,4 +70,5 @@ function draw(){
   strokeWeight(4);
   line(270, 200, 360, 260);
   //Sitzfläche rechts
+
 }
