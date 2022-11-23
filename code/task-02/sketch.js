@@ -14,7 +14,7 @@ function setup() {
 function draw() {
   for (let a = canvasHeight; a >=1 ; a -= 19){
    circle(canvasHeight/2, canvasWidth/2, radius-a);
-   if (radius%2===0){
+   if ((radius-a)%2===0){
       fill('pink');} 
       else {fill('white');}
   }
