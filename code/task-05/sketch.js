@@ -111,6 +111,7 @@ function draw() {
 
 function keyPressed() {
   if  (keyCode === 37) {  //Pfeil links
+    console.log(x, y, pixels[(x + y * 400)*4]);
     x -= 20;
   } 
     else if (keyCode === 39) { // Pfeil recht
